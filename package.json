@@ -1,0 +1,12 @@
+{
+  "name": "sanframeworks-chatbot",
+  "version": "1.0.0",
+  "description": "SANframework's AI chatbot backend",
+  "main": "chatbot-server.js",
+  "scripts": {
+    "start": "node chatbot-server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
