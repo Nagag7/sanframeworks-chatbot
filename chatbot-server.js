@@ -1,7 +1,7 @@
 const http = require('http');
 const https = require('https');
 
-const GEMINI_API_KEY = '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'
+const GEMINI_API_KEY = 'GROQ_API_KEY'
 
 const SYSTEM_PROMPT = `You are the AI assistant for SANframework's, a business automation and AI integration company based in Princeton, NJ. You help website visitors learn about services, pricing, and how to get started. Be warm, concise, and helpful. Keep replies under 4 sentences unless the question genuinely needs more detail.
 
